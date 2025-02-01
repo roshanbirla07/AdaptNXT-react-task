@@ -1,3 +1,4 @@
+![ProductPage](frontend/ManageMyProduct/screenshots/ProductPageIMG-02.png)
 
 ## Features
 - View a list of products in a table.
